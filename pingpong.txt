@@ -1,0 +1,27 @@
+------------------------------------------Tutorial------ ------------------------------------------
+                                       1. Introduction
+This game is inspired by pingpong (also known as table tennis).
+With simple rules and minimalist controls, the game is really accessible for all audiences..
+
+
+                              2. Instructions for using the setting menu
+In the settings, there are 2 items: "Language" and "Switch keyboard".
+The "Language" section helps players switch between English-Vietnamese.
+The "Switch keyboard" section allows players to reset the movement keys to their liking.
+
+                                    3. Game Instructions
+-Control:
+Use the default keys or the keys you have reset to move your bar.
+Player 1 press w to go up, press s to down.
+Player 2 press i to go up, press k to go down.
+
+-Rule:
+Initially the ball will be in the center of the field, and the two bars will be between the sides.
+When one side starts to move the bar, the ball will randomly move left or right.
+The player uses his stick to prevent the ball from going over his boundary.
+Each time the ball crosses the boundary of one side, the other side will receive a point.
+There are 2 important milestones to determine the winner and loser:
++When a player reaches 4 points, the next round will be the decisive round (match points).
+If they score 1 more point then the game will be over and they will be the winner.
++ In case both get 4 points, we will enter the extra round (overtime).
+Here the player needs to get 2 consecutive points to win.

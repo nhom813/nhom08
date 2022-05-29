@@ -1,0 +1,28 @@
+------------------------------------------Huong dan-----------------------------------------------
+                                       1. Gioi thieu
+Tro choi nay duoc lay y tuong tu mon the thao pingpong( hay con goi la bong ban). 
+Voi luat choi don gian va cach dieu khien toi gian tro choi thuc su de tiep can cho moi doi tuong.
+
+
+                              2. Huong dan su dung menu cai dat
+Trong phan cai dat co 2 muc la "Ngon ngu" va "Doi phim bam".
+Phan "Ngon ngu" giup nguoi choi chuyen doi giua hai ngon ngu Anh-Viet.
+Phan "Doi phim bam" cho phep nguoi choi cai dat lai cac phim di chuyen theo y minh.
+
+
+                                    3. Huong dan choi game
+-Dieu khien:
+Su dung cac phim co ban hoac cac phim ma ban da cai dat lai de di chuyen thanh do.
+Nguoi choi 1 phim di chuyen len (w), phim di chuyen xuong (s).
+Nguoi choi 2 phim di chuyen len (i), phim di chuyen xuong (k).
+
+-Luat choi:
+Ban dau bong se nam o tam san dau con hai thanh do lan luot nam o trung tam 2 ben bien.
+Khi mot ben bat dau di chuyen thanh do bong se di chuyen ngau nhien ve hai phia trai phai.
+Nguoi choi dung thanh do cua minh de ngan cho bong khong qua khoi bien gioi cua minh.
+Moi lan bong roi khoi bien gioi mot ben thi ben con lai se duoc nhan diem.
+Co 2 moc quan trong can chu y de phan dinh thang thua:
++Khi co mot nguoi choi dat 4 diem thi vong dau tiep theo se la vong quyet dinh (match points).
+Neu ho ghi duoc them 1 diem nua thi tro choi se ket thuc va ho se la nguoi chien thang.
++Trong truong hop ca hai nguoi choi deu dat duoc 4 diem ta se buoc vao vong dau phu (overtime).
+Trong vong nay nguoi choi can dat duoc hai diem lien tuc de thang.
