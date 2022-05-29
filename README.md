@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are group 8</h1>
+<h1 align="center">Hi 👋, We are Team 8</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">An enthusiastic team of developers from Vietnam </h3>
 <p align="center">
