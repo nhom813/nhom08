@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/748/448/png-transparent-dark-souls-iii-demon-s-souls-star-wars-knights-of-the-old-republic-armour-game-computer-wallpaper-video-game.png" height="200"/>
+  <img src="https://w7.pngwing.com/pngs/748/448/png-transparent-dark-souls-iii-demon-s-souls-star-wars-knights-of-the-old-republic-armour-game-computer-wallpaper-video-game.png" height="1000"/>
 </p>
 <br>
 
