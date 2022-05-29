@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning Object-oriented programming (OOP)
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 📫 How to reach me:
 
@@ -23,3 +24,32 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
+
+### 👉 Programming languages
+
+<p align="center"> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a> 
+</p>
+
+
+ ### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" height="50"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio" src="https://img.icons8.com/fluency/344/visual-studio.png" height="50"/></a>
+</p>
+
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
+
