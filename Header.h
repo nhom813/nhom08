@@ -86,7 +86,7 @@ public:
 	void increment_scoreVN(Blade* player);
 
 	void clearScreen();//loai bo nhay khi mo chuong trinh
-
+	void ShowCur(bool CursorVisibility);
 	// Drawing the board (at each moment -- this will explain the blips) (ve bang choi game moi khi code chay -- dieu nay dan den viec game bi nhap nhay)
 	void draw_layout();
 
@@ -315,9 +315,17 @@ void Ping_Pong::clearScreen() {
 	Position.Y = 0;
 	SetConsoleCursorPosition(hOut, Position);
 }
+
+void Ping_Pong :: ShowCur(bool CursorVisibility)
+{
+	HANDLE handle = GetStdHandle(STD_OUTPUT_HANDLE);
+	CONSOLE_CURSOR_INFO cursor = { 1, CursorVisibility };
+	SetConsoleCursorInfo(handle, &cursor);
+}
+
 void Ping_Pong::draw_layout() {
 	clearScreen(); // first clearing the screen to remove prev timestep (xoa khoang thoi gian nhay de tranh bi nhap nhay)
-
+	ShowCur(0);
 	// printing above wall(in tuong tren)
 	for (int i = 0; i < width + 2; i++) cout << "\xB2";
 	cout << endl;
@@ -420,6 +428,12 @@ void Ping_Pong::play() {
 		else if (key == down_2 && player_2->y + 4 < height) player_2->blade_move_down();
 		// terminate if 't' is pressed (thoat neu bam t)
 		else if(key == 27) {system("pause"); system("cls");}
+		else if(key == 8) {	
+			system("cls");
+			Ping_Pong game(40, 20); // instanciating game
+			Menu(game);
+			game.lets_ping_pong(::language); // playing
+		}
 		else if (key == 't') terminate = true;
 
 		// if it's new game move the ball in random directions	(bat dau game voi huong bong ngau nhien)			
